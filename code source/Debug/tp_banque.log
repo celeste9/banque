@@ -1,0 +1,5 @@
+﻿  tp_Banque_celeste.cpp
+c:\users\rgouba\documents\visual studio 2015\projects\tp_banque\tp_banque_celeste.cpp(188): warning C4101: 'soldeMoyen': unreferenced local variable
+c:\users\rgouba\documents\visual studio 2015\projects\tp_banque\tp_banque_celeste.cpp(511): warning C4101: 'num': unreferenced local variable
+  tp_banque.vcxproj -> C:\Users\rgouba\Documents\Visual Studio 2015\Projects\tp_banque\Debug\tp_banque.exe
+  tp_banque.vcxproj -> C:\Users\rgouba\Documents\Visual Studio 2015\Projects\tp_banque\Debug\tp_banque.pdb (Partial PDB)
